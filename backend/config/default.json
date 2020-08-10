@@ -1,0 +1,10 @@
+{
+  "host": "localhost",
+  "port": 3031,
+  "public": "../public/",
+  "apiUrl": "https://linux5.sima.io/pcs2/api.php",
+  "paginate": {
+    "default": 10,
+    "max": 50
+  }
+}
